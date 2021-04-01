@@ -1,0 +1,23 @@
+{
+  "name": "followandrew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camcgreen/wp-followandrew.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camcgreen/wp-followandrew/issues"
+  },
+  "homepage": "https://github.com/camcgreen/wp-followandrew#readme",
+  "devDependencies": {
+    "@prettier/plugin-php": "0.14.3",
+    "prettier": "2.0.5"
+  }
+}
